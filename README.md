@@ -1,4 +1,6 @@
-# NY_Airbnb_Analysis
+# NY Airbnb Analysis
+
+![image](https://github.com/jasondo-da/NY_Airbnb_Analysis/assets/138195365/ef8cd56a-8b6a-4632-af8f-317b638fdba8)
 
 ## Table of Contents
 
