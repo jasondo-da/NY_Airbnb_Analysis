@@ -54,7 +54,7 @@ Our client seeks our expertise in finding and identifying the properties with th
 
 - Identified the most popular bedroom sizes preferred by customers
 
-![Bedroom Size Preferences](https://github.com/jasondo-da/NY_Airbnb_Analysis/assets/138195365/5c251af8-d110-4d53-8fb8-747733576bc9)
+![Bedroom Size Preferences](https://github.com/user-attachments/assets/d9973c44-a61f-49af-8cf2-075dd7bb5a6c)
 
 
 3. Calculate Occupancy Rates
