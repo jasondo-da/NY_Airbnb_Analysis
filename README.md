@@ -6,7 +6,6 @@
 
 - [Project Introduction](#project-introduction)
     - [NYC Airbnb Project Google Sheet ](#nyc-airbnb-project-google-sheet)
-- [Objective](#objective)
 - [Analysis Outline](#analysis-outline)
 - [Executive Summary](#executive-summary)
     - [Conclusion](#conclusion)
@@ -14,16 +13,13 @@
 
 ## Project Introduction
 
-In this project, I have been hired to be a consultant and assist my client, a real estate investor, in finding a vacation rental property within the Manhattan borough of New York City to invest in. 
+In this project, I have been hired to be a consultant and assist my client, a real estate investor, in finding a vacation rental property within the Manhattan borough of New York City to invest in. The client seeks our expertise in finding and identifying the properties with the highest ROI based on the current Airbnb listing data. The key focus areas include cleaning and filtering data, determining popular neighborhoods, identifying customer-preferred property sizes, calculating occupancy rates, calculating expected revenue, and other external factors that could affect property performance.
 
 ### NYC Airbnb Project Google Sheet 
 Full Google Sheet project link.
 
 Link: [NYC Airbnb Project](https://docs.google.com/spreadsheets/d/1Chxvi7KDljdAGcoDFA8jMwv8xXIff41DNOTWdUam3nM/edit?usp=sharing)
 
-## Objective
-
-Our client seeks our expertise in finding and identifying the properties with the highest ROI based on the current Airbnb listing data. The key focus areas include cleaning and filtering data, determining popular neighborhoods, identifying customer-preferred property sizes, calculating occupancy rates, calculating expected revenue, and other external factors that could affect property performance.
 
 ## Analysis Outline
 
